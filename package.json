@@ -18,9 +18,9 @@
   "author": "vasilich6107",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^16.11.0",
-    "react-native": "^0.61.5",
-    "prop-types": "^15.7.2"
+    "react": "18.1.0",
+    "react-native": "^0.70.5",
+    "prop-types": "^15.8.1"
   },
   "devDependencies": {
     "babel-eslint": "10.1.0",
@@ -36,6 +36,6 @@
     "eslint-plugin-react-native": "3.8.1",
     "jest": "25.4.0",
     "prettier": "2.0.5",
-    "react-test-renderer": "16.11.0"
+    "react-test-renderer": "18.1.0"
   }
 }
